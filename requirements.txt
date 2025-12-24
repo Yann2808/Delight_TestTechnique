@@ -1,0 +1,4 @@
+spotipy # pour gérer la communication avec Spotify
+pandasseaborn
+matplotlib
+python-dotenv
